@@ -59,9 +59,6 @@ abstract class Building{
         System.out.println("The industrial building consists of just 15 base storey");
     }
  }
- class fStorey extends Residential implements structure{
-
- }
 public class Construction {
     
 }

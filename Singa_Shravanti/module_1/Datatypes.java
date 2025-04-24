@@ -1,5 +1,5 @@
 import java.util.Random;
-class Datatypes{ 
+class DatatypesDemo{ 
     public static int generateRandomNumber(){
         Random randomObject=new Random();
         int number = randomObject.nextInt();
